@@ -1,0 +1,11 @@
+---
+problem_id: P45965_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-11 11:55:45"
+time_out: "2019-07-11 11:55:58"
+veredict: AC
+veredict_info: ~
+title: Zeros and ones (2)
+...

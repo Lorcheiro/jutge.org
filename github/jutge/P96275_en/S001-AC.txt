@@ -1,0 +1,11 @@
+---
+problem_id: P96275_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 15:18:41"
+time_out: "2019-07-08 15:18:46"
+veredict: AC
+veredict_info: ~
+title: Absolute value
+...

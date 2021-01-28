@@ -1,0 +1,11 @@
+---
+problem_id: P93533_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-09 15:47:54"
+time_out: "2019-07-09 15:48:02"
+veredict: AC
+veredict_info: ~
+title: Numbers in base -2
+...

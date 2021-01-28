@@ -1,0 +1,11 @@
+---
+problem_id: P68688_en
+submission_id: S006
+compiler_id: BEEF
+annotation: ~
+time_in: "2019-07-09 17:25:53"
+time_out: "2019-07-09 17:25:57"
+veredict: AC
+veredict_info: ~
+title: Hello world!
+...

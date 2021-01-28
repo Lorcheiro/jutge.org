@@ -1,0 +1,11 @@
+---
+problem_id: P68688_es
+submission_id: S007
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-10 17:24:28"
+time_out: "2019-07-10 17:24:34"
+veredict: AC
+veredict_info: ~
+title: Hola a todos!
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P18957_ca
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-16 17:26:30"
+time_out: "2020-06-16 17:26:41"
+veredict: AC
+veredict_info: ~
+title: Subconjunts (1)
+...

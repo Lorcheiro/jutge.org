@@ -1,0 +1,11 @@
+---
+problem_id: P51222_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 17:10:33"
+time_out: "2019-07-08 17:10:39"
+veredict: AC
+veredict_info: ~
+title: Recursive number of digits
+...

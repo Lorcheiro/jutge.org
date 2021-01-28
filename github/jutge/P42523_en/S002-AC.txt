@@ -1,0 +1,11 @@
+---
+problem_id: P42523_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 16:45:03"
+time_out: "2019-07-08 16:45:10"
+veredict: AC
+veredict_info: ~
+title: Recursive greatest common divisor
+...

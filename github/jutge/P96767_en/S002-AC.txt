@@ -1,0 +1,11 @@
+---
+problem_id: P96767_en
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-04 19:08:07"
+time_out: "2020-06-04 19:08:14"
+veredict: AC
+veredict_info: ~
+title: Polynomial evaluation (1)
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P28318_ca
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-16 16:36:23"
+time_out: "2020-06-16 16:36:32"
+veredict: AC
+veredict_info: ~
+title: Files i columnes
+...

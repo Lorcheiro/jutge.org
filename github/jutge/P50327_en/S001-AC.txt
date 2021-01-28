@@ -1,0 +1,11 @@
+---
+problem_id: P50327_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-05-26 17:08:13"
+time_out: "2020-05-26 17:08:20"
+veredict: AC
+veredict_info: ~
+title: Reversed number
+...

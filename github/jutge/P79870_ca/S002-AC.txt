@@ -1,0 +1,11 @@
+---
+problem_id: P79870_ca
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2020-04-13 13:24:01"
+time_out: "2020-04-13 13:24:11"
+veredict: AC
+veredict_info: ~
+title: ABBA
+...

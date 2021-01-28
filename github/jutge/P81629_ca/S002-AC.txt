@@ -1,0 +1,11 @@
+---
+problem_id: P81629_ca
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2020-05-19 17:31:13"
+time_out: "2020-05-19 17:31:22"
+veredict: AC
+veredict_info: ~
+title: "Canvi m\xEDnim"
+...

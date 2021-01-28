@@ -1,0 +1,11 @@
+---
+problem_id: P92351_ca
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-13 13:31:51"
+time_out: "2019-07-13 13:32:00"
+veredict: AC
+veredict_info: ~
+title: "Divisi\xF3 entera i residu d'un enter amb un natural"
+...

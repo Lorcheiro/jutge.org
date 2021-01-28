@@ -1,0 +1,11 @@
+---
+problem_id: P75018_es
+submission_id: S012
+compiler_id: G++11
+annotation: ~
+time_in: "2020-03-24 17:26:06"
+time_out: "2020-03-24 17:26:15"
+veredict: AC
+veredict_info: ~
+title: Diamantes
+...

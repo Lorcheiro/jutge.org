@@ -1,0 +1,11 @@
+---
+problem_id: P34645_ca
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-09-22 09:19:26"
+time_out: "2020-09-22 09:19:37"
+veredict: AC
+veredict_info: ~
+title: "Pal\xEDndroms de Morse"
+...

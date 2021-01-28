@@ -1,0 +1,11 @@
+---
+problem_id: P39057_en
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-02 17:04:16"
+time_out: "2020-06-02 17:04:23"
+veredict: AC
+veredict_info: ~
+title: Computing areas
+...

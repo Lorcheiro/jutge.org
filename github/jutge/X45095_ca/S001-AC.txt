@@ -1,0 +1,11 @@
+---
+problem_id: X45095_ca
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-09-13 13:18:36"
+time_out: "2020-09-13 13:18:43"
+veredict: AC
+veredict_info: ~
+title: Febre
+...

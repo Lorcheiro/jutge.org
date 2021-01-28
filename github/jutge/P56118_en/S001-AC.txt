@@ -1,0 +1,11 @@
+---
+problem_id: P56118_en
+submission_id: S001
+compiler_id: Python3
+annotation: ~
+time_in: "2019-07-08 14:33:20"
+time_out: "2019-07-08 14:33:27"
+veredict: AC
+veredict_info: ~
+title: Maximum of two integer numbers
+...

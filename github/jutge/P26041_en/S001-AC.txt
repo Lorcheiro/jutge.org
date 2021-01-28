@@ -1,0 +1,11 @@
+---
+problem_id: P26041_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-03-31 17:19:43"
+time_out: "2020-03-31 17:19:53"
+veredict: AC
+veredict_info: ~
+title: Reversing a list of words (1)
+...

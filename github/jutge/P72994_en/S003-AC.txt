@@ -1,0 +1,11 @@
+---
+problem_id: P72994_en
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-12 10:05:38"
+time_out: "2019-07-12 10:05:46"
+veredict: AC
+veredict_info: ~
+title: Fibonacci numbers (1)
+...

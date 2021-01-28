@@ -1,0 +1,11 @@
+---
+problem_id: P12509_ca
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 16:26:46"
+time_out: "2019-07-08 16:26:51"
+veredict: AC
+veredict_info: ~
+title: Factorial recursiu
+...

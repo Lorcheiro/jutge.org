@@ -1,0 +1,11 @@
+---
+problem_id: P38045_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 15:14:33"
+time_out: "2019-07-08 15:14:40"
+veredict: AC
+veredict_info: ~
+title: Computing square roots and squares
+...

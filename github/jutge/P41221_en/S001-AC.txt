@@ -1,0 +1,11 @@
+---
+problem_id: P41221_en
+submission_id: S001
+compiler_id: Python3
+annotation: ~
+time_in: "2019-07-08 14:31:53"
+time_out: "2019-07-08 14:32:09"
+veredict: AC
+veredict_info: ~
+title: Sum of three integer numbers
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P78142_en
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-02 16:45:47"
+time_out: "2020-06-02 16:45:53"
+veredict: AC
+veredict_info: ~
+title: Average
+...

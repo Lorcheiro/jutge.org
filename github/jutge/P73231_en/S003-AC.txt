@@ -1,0 +1,11 @@
+---
+problem_id: P73231_en
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 15:26:54"
+time_out: "2019-07-08 15:27:00"
+veredict: AC
+veredict_info: ~
+title: Maximum of four integer numbers
+...

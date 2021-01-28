@@ -1,0 +1,11 @@
+---
+problem_id: P57474_en
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-08 15:31:43"
+time_out: "2019-07-08 15:31:49"
+veredict: AC
+veredict_info: ~
+title: Iterative factorial
+...

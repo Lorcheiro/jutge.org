@@ -1,0 +1,11 @@
+---
+problem_id: X94960_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-03-08 09:09:30"
+time_out: "2020-03-08 09:09:36"
+veredict: WA
+veredict_info: ~
+title: "How old is my neighbor\u2019s Chihuahua?"
+...

@@ -1,0 +1,11 @@
+---
+problem_id: P27498_ca
+submission_id: S002
+compiler_id: G++17
+annotation: ~
+time_in: "2020-06-16 17:01:39"
+time_out: "2020-06-16 17:01:45"
+veredict: AC
+veredict_info: ~
+title: Matriu transposta
+...

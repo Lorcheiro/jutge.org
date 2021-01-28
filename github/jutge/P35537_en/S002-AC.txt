@@ -1,0 +1,11 @@
+---
+problem_id: P35537_en
+submission_id: S002
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-09 10:14:13"
+time_out: "2019-07-09 10:14:20"
+veredict: AC
+veredict_info: ~
+title: Increasing numbers
+...

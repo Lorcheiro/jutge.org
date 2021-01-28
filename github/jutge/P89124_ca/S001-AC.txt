@@ -1,0 +1,11 @@
+---
+problem_id: P89124_ca
+submission_id: S001
+compiler_id: G++17
+annotation: ~
+time_in: "2020-09-22 20:16:36"
+time_out: "2020-09-22 20:16:48"
+veredict: AC
+veredict_info: ~
+title: "Garbell d'Erat\xF2stenes"
+...

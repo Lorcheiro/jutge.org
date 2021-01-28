@@ -1,0 +1,11 @@
+---
+problem_id: P90766_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2020-03-24 16:46:07"
+time_out: "2020-03-24 16:46:14"
+veredict: AC
+veredict_info: ~
+title: Treasures in a map (3)
+...

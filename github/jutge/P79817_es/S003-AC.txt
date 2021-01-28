@@ -1,0 +1,11 @@
+---
+problem_id: P79817_es
+submission_id: S003
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-11 14:11:39"
+time_out: "2019-07-11 14:11:46"
+veredict: AC
+veredict_info: ~
+title: Potencias
+...

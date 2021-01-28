@@ -1,0 +1,11 @@
+---
+problem_id: P98960_en
+submission_id: S001
+compiler_id: G++11
+annotation: ~
+time_in: "2019-07-13 13:35:42"
+time_out: "2019-07-13 13:35:49"
+veredict: AC
+veredict_info: ~
+title: Uppercase and lowercase letters
+...

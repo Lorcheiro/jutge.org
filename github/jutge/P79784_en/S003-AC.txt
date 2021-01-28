@@ -1,0 +1,11 @@
+---
+problem_id: P79784_en
+submission_id: S003
+compiler_id: G++17
+annotation: ~
+time_in: "2020-05-27 10:27:49"
+time_out: "2020-05-27 10:27:56"
+veredict: AC
+veredict_info: ~
+title: Movements on the ground
+...
